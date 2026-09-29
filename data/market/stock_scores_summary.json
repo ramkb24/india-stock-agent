@@ -1,0 +1,24 @@
+{
+  "generated_at": "2026-09-27T15:15:28.604195+00:00",
+  "stocks_scored": 500,
+  "market_regime": "BEARISH",
+  "market_regime_score": 7.6923076923076925,
+  "macro_score": 40.0,
+  "score_statistics": {
+    "mean": 46.249106553677784,
+    "median": 45.628766237150174,
+    "min": 21.22280323576424,
+    "max": 69.40832051281384
+  },
+  "confidence_distribution": {
+    "HIGH": 382,
+    "LOW": 81,
+    "MEDIUM": 37
+  },
+  "risk_distribution": {
+    "MODERATE": 264,
+    "LOW": 148,
+    "HIGH": 75,
+    "VERY_HIGH": 13
+  }
+}

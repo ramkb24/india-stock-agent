@@ -1,0 +1,10 @@
+{
+  "stocks_analyzed": 500,
+  "risk_class_counts": {
+    "MODERATE": 264,
+    "LOW": 148,
+    "HIGH": 75,
+    "VERY_HIGH": 13
+  },
+  "generated_at": "2026-09-27T14:40:38.505082+00:00"
+}

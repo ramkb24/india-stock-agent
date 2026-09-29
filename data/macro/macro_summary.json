@@ -1,0 +1,45 @@
+{
+  "generated_at": "2026-09-27T14:38:54.521870+00:00",
+  "assets": {
+    "USDINR": {
+      "ticker": "INR=X",
+      "rows": 1301,
+      "start": "2021-09-27",
+      "end": "2026-09-27",
+      "latest_close": 95.802001953125,
+      "file": "data/macro/USDINR.parquet"
+    },
+    "BRENT": {
+      "ticker": "BZ=F",
+      "rows": 1258,
+      "start": "2021-09-27",
+      "end": "2026-09-25",
+      "latest_close": 97.44000244140625,
+      "file": "data/macro/BRENT.parquet"
+    },
+    "GOLD": {
+      "ticker": "GC=F",
+      "rows": 1258,
+      "start": "2021-09-27",
+      "end": "2026-09-25",
+      "latest_close": 4321.2001953125,
+      "file": "data/macro/GOLD.parquet"
+    },
+    "US10Y": {
+      "ticker": "^TNX",
+      "rows": 1255,
+      "start": "2021-09-27",
+      "end": "2026-09-25",
+      "latest_close": 5.184000015258789,
+      "file": "data/macro/US10Y.parquet"
+    },
+    "VIX": {
+      "ticker": "^VIX",
+      "rows": 1257,
+      "start": "2021-09-27",
+      "end": "2026-09-25",
+      "latest_close": 14.869999885559082,
+      "file": "data/macro/VIX.parquet"
+    }
+  }
+}

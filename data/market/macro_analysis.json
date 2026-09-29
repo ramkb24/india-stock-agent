@@ -1,0 +1,38 @@
+{
+  "macro_regime": "ELEVATED MACRO RISK",
+  "macro_risk_points": 2,
+  "USDINR": {
+    "latest": 95.802001953125,
+    "change_5d_pct": -0.21986345405970997,
+    "change_20d_pct": 0.44212433090029535,
+    "change_60d_pct": 0.6167150400873567,
+    "signal": "NEUTRAL"
+  },
+  "BRENT": {
+    "latest": 97.44000244140625,
+    "change_5d_pct": -6.190430475739417,
+    "change_20d_pct": 8.628768959301226,
+    "change_60d_pct": 36.146434060209856,
+    "signal": "RISING OIL"
+  },
+  "GOLD": {
+    "latest": 4321.2001953125,
+    "change_5d_pct": -2.3435492173805583,
+    "change_20d_pct": -7.349910049045882,
+    "change_60d_pct": 5.849507610257687,
+    "signal": "FALLING GOLD"
+  },
+  "US10Y": {
+    "latest": 5.184000015258789,
+    "change_5d_pp": 0.18599987030029297,
+    "change_20d_pp": 0.5120000839233398,
+    "change_60d_pp": 0.7090001106262207,
+    "signal": "RISING US YIELDS"
+  },
+  "VIX": {
+    "latest": 14.869999885559082,
+    "change_5d_pct": 0.4051280502525234,
+    "change_20d_pct": 3.049200076769787,
+    "signal": "NORMAL VOLATILITY"
+  }
+}
