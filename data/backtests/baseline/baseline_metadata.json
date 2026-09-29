@@ -1,0 +1,15 @@
+{
+  "baseline_name": "technical_only_v1",
+  "created_at_utc": "2026-09-29T14:16:20.501246+00:00",
+  "git_commit": "4d72564d47c3cbe57871fe02013165a3aa0f60d9",
+  "git_branch": "main",
+  "git_status_at_creation": "?? .gitignore",
+  "historical_fundamentals_used": false,
+  "technical_signal_source": "app/analysis/backtest.py",
+  "portfolio_backtest_source": "app/analysis/portfolio_backtest.py",
+  "universe_source": "data/universe.csv",
+  "execution": "signal at T close -> next trading day OPEN",
+  "rebalance_method": "dates[::REBALANCE_DAYS]",
+  "transaction_cost_model": "flat round-trip bps",
+  "purpose": "Immutable pre-PIT comparison baseline"
+}
